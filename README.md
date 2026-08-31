@@ -1,7 +1,3 @@
-# Marçal Costa Cunha 
-
-**`Digital Suporte em CAD/Cam`**
-
 # 👋 Olá! Eu sou Marçal Costa Cunha
 
 Sou **Técnico em Prótese Dentária e Especialista em Odontologia Digital**, com mais de 14 anos de experiência profissional no Reino Unido. Atualmente trabalho com **suporte técnico em odontologia digital**, atuando com equipamentos, softwares e fluxos de trabalho CAD/CAM.
