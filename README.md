@@ -1,45 +1,45 @@
-# 👋 Olá! Eu sou Marçal Costa Cunha
+# 👋 Hello! I'm Marçal Costa Cunha
 
-Sou **Técnico em Prótese Dentária e Especialista em Odontologia Digital**, com mais de 14 anos de experiência profissional no Reino Unido. Atualmente trabalho com **suporte técnico em odontologia digital**, atuando com equipamentos, softwares e fluxos de trabalho CAD/CAM.
+I am a **Dental Technician and Digital Dentistry Specialist** with more than 14 years of professional experience in the United Kingdom. I currently work in **technical support for digital dentistry**, working with equipment, software, and CAD/CAM workflows.
 
-Minha experiência profissional me proporcionou uma forte combinação entre **conhecimento técnico, resolução de problemas, atendimento ao cliente e tecnologia**. Atualmente, também estou ampliando meus conhecimentos na área de **Engenharia de Software e programação**.
+My professional experience has given me a strong combination of **technical knowledge, problem-solving, customer support, and technology**. I am also currently expanding my knowledge in **Software Engineering and programming**.
 
-## 💻 Tecnologias e conhecimentos
+## 💻 Technologies & Skills
 
-### Conhecimentos técnicos
+### Technical Skills
 
-* CAD/CAM e fluxos digitais para Odontologia
-* Scanners e máquinas de fresagem
-* Softwares de design odontológico
-* Instalação, configuração e troubleshooting
-* Suporte técnico e atendimento ao cliente
+* CAD/CAM and digital workflows for Dentistry
+* Dental scanners and milling machines
+* Dental design software
+* Installation, configuration, and troubleshooting
+* Technical support and customer service
 
-### Programação e desenvolvimento
+### Programming & Development
 
-* 🐍 **Python** — estudando e desenvolvendo projetos acadêmicos
-* 🗄️ **SQL** — conhecimentos básicos e aplicações em projetos acadêmicos
-* 🧠 **Lógica de Programação e Algoritmos**
-* 📊 Estruturas de dados e fundamentos de programação
-* 🔧 Git e GitHub — estudando versionamento e organização de projetos
+* 🐍 **Python** — currently studying and developing academic projects
+* 🗄️ **SQL** — basic knowledge and applications in academic projects
+* 🧠 **Programming Logic and Algorithms**
+* 📊 Data structures and programming fundamentals
+* 🔧 **Git & GitHub** — learning version control and project organization
 
-## 🚀 Projetos
+## 🚀 Projects
 
-Estou desenvolvendo projetos acadêmicos para aplicar na prática meus conhecimentos de programação e lógica, incluindo:
+I am developing academic projects to apply my programming and problem-solving skills in practical situations, including:
 
-* 🐍 **Projetos em Python** — exercícios e aplicações utilizando funções, listas, dicionários, conjuntos e estruturas de repetição.
-* 📊 **Gerenciador de Notas** — aplicação para cadastro de alunos, cálculo de médias e geração de relatórios.
-* 📦 **Sistema de Controle de Estoque** — aplicação para registro de entrada, saída e consulta de produtos.
-* 🎮 **Jogo da Forca** — projeto desenvolvido em Python utilizando lógica de programação e estruturas de dados.
+* 🐍 **Python Projects** — exercises and applications using functions, lists, dictionaries, sets, and loops.
+* 📊 **Student Grade Manager** — an application for registering students, calculating grades, and generating reports.
+* 📦 **Inventory Management System** — an application for registering, managing, and checking product stock.
+* 🎮 **Hangman Game** — a Python project developed using programming logic and data structures.
 
-## 🎯 Interesses de desenvolvimento
+## 🎯 Development Interests
 
-Tenho interesse em continuar evoluindo em **Python, desenvolvimento de software, automação, bancos de dados, APIs e soluções tecnológicas**, buscando unir minha experiência em **Odontologia Digital e CAD/CAM** com meus novos conhecimentos em tecnologia.
+I am interested in continuing to develop my skills in **Python, software development, automation, databases, APIs, and technology solutions**, while combining my experience in **Digital Dentistry and CAD/CAM** with my growing knowledge of technology and software engineering.
 
-Estou sempre buscando aprender, resolver problemas e transformar desafios técnicos em soluções eficientes.
+I am always looking for opportunities to learn, solve problems, and turn technical challenges into efficient solutions.
 
-## 📫 Contato
+## 📫 Contact
 
-Estou aberto a oportunidades, projetos e conexões profissionais nas áreas de **Tecnologia, Suporte Técnico, CAD/CAM, Odontologia Digital e Desenvolvimento de Software**.
+I am open to opportunities, projects, and professional connections in **Technology, Technical Support, CAD/CAM, Digital Dentistry, and Software Development**.
 
-**Obrigado pela visita ao meu perfil! 🚀**
+**Thank you for visiting my profile! 🚀**
 
